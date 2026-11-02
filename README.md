@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TimeShare ⏳ - AI-Powered Skill-Learning Platform
 
 **TimeShare** is a modern full-stack web application designed for a peer-to-peer educational skill micro-economy. Users upload educational skill videos, earn credits, and spend those credits to learn new skills from other users—without any paywalls.
