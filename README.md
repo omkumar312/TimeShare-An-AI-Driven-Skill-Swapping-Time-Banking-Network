@@ -159,4 +159,4 @@ cd server && node test_e2e.js
 <img width="916" height="677" alt="Screenshot 2026-11-02 231131" src="https://github.com/user-attachments/assets/2bff7b94-cc9d-4ed2-8719-d6035156a93d" />
 
 <img width="695" height="593" alt="Screenshot 2026-11-02 231053" src="https://github.com/user-attachments/assets/7dd20535-8952-4995-9d88-e3f33b90aa71" />
->>>>>>> b9de57632d80d496a010bc6c5d70c8bc9e6238a3
+
